@@ -1,6 +1,6 @@
 {
   "name": "@airemad/node-acustic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node.js Libary to collect, analyze and digest the Acustic Pollution in Madrid",
   "main": "src/index.js",
   "source": "src/index.js",
