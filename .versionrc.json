@@ -9,6 +9,6 @@
       {"type": "perf", "section": "Other"},
       {"type": "test", "section": "Other"}
     ],
-    "commitUrlFormat": "https://github.com/airemad/stations/commits/{{hash}}",
-    "compareUrlFormat": "https://github.com/airemad/stations/compare/{{previousTag}}...{{currentTag}}"
+    "commitUrlFormat": "https://github.com/airemad/node-acustic/commits/{{hash}}",
+    "compareUrlFormat": "https://github.com/airemad/node-acustic/compare/{{previousTag}}...{{currentTag}}"
   }
