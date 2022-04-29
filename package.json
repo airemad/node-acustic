@@ -17,6 +17,13 @@
       "jest"
     ]
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint",
+      "pre-push": "npm run lint && npm run test:coverage",
+      "post-merge": "npm i && npm i --package-lock-only"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/airemad/node-acustic.git"
@@ -37,6 +44,7 @@
   "devDependencies": {
     "@commitlint/cli": "16.2.4",
     "@commitlint/config-conventional": "16.2.4",
+    "husky": "7.0.4",
     "jest": "28.0.3",
     "jest-config": "28.0.3",
     "standard": "17.0.0",
