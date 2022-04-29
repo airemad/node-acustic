@@ -1,0 +1,35 @@
+{
+  "name": "@airemad/node-acustic",
+  "version": "0.1.0",
+  "description": "Node.js Libary to collect, analyze and digest the Acustic Pollution in Madrid",
+  "main": "src/index.js",
+  "source": "src/index.js",
+  "scripts": {
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:major": "standard-version --release-as major"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airemad/node-acustic.git"
+  },
+  "keywords": [
+    "Air quality",
+    "Madrid"
+  ],
+  "author": {
+    "name": "Ulises Gascón",
+    "url": "https://github.com/ulisesGascon"
+  },
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/airemad/node-acustic/issues"
+  },
+  "homepage": "https://github.com/airemad/node-acustic#readme",
+  "devDependencies": {
+    "@commitlint/cli": "16.2.4",
+    "@commitlint/config-conventional": "16.2.4",
+    "standard-version": "9.3.2"
+  }
+}

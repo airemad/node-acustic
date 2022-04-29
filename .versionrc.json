@@ -1,0 +1,14 @@
+{
+    "types": [
+      {"type": "feat", "section": "Features"},
+      {"type": "fix", "section": "Bug Fixes"},
+      {"type": "chore", "section": "Other"},
+      {"type": "docs", "section": "Other"},
+      {"type": "style", "section": "Other"},
+      {"type": "refactor", "section": "Other"},
+      {"type": "perf", "section": "Other"},
+      {"type": "test", "section": "Other"}
+    ],
+    "commitUrlFormat": "https://github.com/airemad/stations/commits/{{hash}}",
+    "compareUrlFormat": "https://github.com/airemad/stations/compare/{{previousTag}}...{{currentTag}}"
+  }
