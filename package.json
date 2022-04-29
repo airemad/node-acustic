@@ -5,6 +5,10 @@
   "main": "src/index.js",
   "source": "src/index.js",
   "scripts": {
+    "test": "FORCE_COLOR=3 jest  --verbose",
+    "test:update": "FORCE_COLOR=3 jest --verbose --u",
+    "test:coverage": "FORCE_COLOR=3 jest --verbose  --coverage",
+    "test:watch": "FORCE_COLOR=3 jest --verbose  --watchAll",
     "lint": "standard",
     "lint:fix": "standard --fix",
     "release": "standard-version",
