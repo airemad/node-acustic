@@ -37,6 +37,8 @@
   "devDependencies": {
     "@commitlint/cli": "16.2.4",
     "@commitlint/config-conventional": "16.2.4",
+    "jest": "28.0.3",
+    "jest-config": "28.0.3",
     "standard": "17.0.0",
     "standard-version": "9.3.2"
   }
