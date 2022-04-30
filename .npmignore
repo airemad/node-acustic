@@ -445,6 +445,7 @@ $RECYCLE.BIN/
 ## Specifics to avoid big library size
 __tests__/
 __fixtures__/
+__helpers__/
 coverage/
 .github/
 /IGNORE
