@@ -446,6 +446,7 @@ $RECYCLE.BIN/
 __tests__/
 __fixtures__/
 __helpers__/
+__mocks__/
 coverage/
 .github/
 /IGNORE
