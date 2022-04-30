@@ -105,8 +105,10 @@ NMT, anio, mes, dia, tipo, LAEQ, LAS01, LAS10, LAS50, LAS90, LAS99
 `.trim()
 
 const fixtures = {
+  mokedTimestamp: 1635897600000, // 2021, 10, 3
   sampleReport,
-  outputReport
+  outputReport,
+  sampleReportHash: '6743685864183bc130a4e442df2d9cf8'
 }
 
 Object.freeze(fixtures)
