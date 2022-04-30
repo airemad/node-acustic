@@ -2,6 +2,34 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/airemad/node-acustic/compare/v0.1.1...v1.0.0) (2022-04-30)
+
+
+### Features
+
+* add json schema for report output ([f87a828](https://github.com/airemad/node-acustic/commits/f87a82812f8ae2901c6689aa63cc9e8cecfcbd73))
+* add test fixtures ([519e63b](https://github.com/airemad/node-acustic/commits/519e63b95bc81211411a502771d2d89b1b27ae83))
+* added constants ([c966379](https://github.com/airemad/node-acustic/commits/c966379eae289115e8c8691bb75ff07b9c2d8f31))
+* added core library ([62e71ac](https://github.com/airemad/node-acustic/commits/62e71ac7a5c236dbd7864ba63b83dae7786063b1))
+* added core library tests ([f9307e1](https://github.com/airemad/node-acustic/commits/f9307e15a40b7ae144c70cbb7ac3a2d8e290b77a))
+* added download utils ([3a7d686](https://github.com/airemad/node-acustic/commits/3a7d68671f044e4348fea29a91df4aa726dfa7d8))
+* added helpers for http requests ([8d4d85f](https://github.com/airemad/node-acustic/commits/8d4d85f11740ff30aff247365e5b650106fdfb51))
+* added mock for node-fetch ([5168257](https://github.com/airemad/node-acustic/commits/51682575cbb003091df5d88e661eb054b2d4a419))
+* added parser utils ([ed802de](https://github.com/airemad/node-acustic/commits/ed802deaeedeb97d0b4add09b7925eee392ffb37))
+* added test definition ([870cfbc](https://github.com/airemad/node-acustic/commits/870cfbcd855988b3012b04ee8d44aea57c32377e))
+* added tests for download utils ([1dcae54](https://github.com/airemad/node-acustic/commits/1dcae54b3019bd330835efdb5afbf7c73e6ce8f5))
+* added tests for parser ([e077c68](https://github.com/airemad/node-acustic/commits/e077c68e453bc094aa9437788218f3f3d5bd0973))
+* added tests for validation ([4fcc35a](https://github.com/airemad/node-acustic/commits/4fcc35a23114f2af525eaa0fb8f42385614d5dff))
+* added validation utils ([6adf535](https://github.com/airemad/node-acustic/commits/6adf535a63b8578a94ea5272e8976ad721218b55))
+* fixtures alignment ([54cc7b0](https://github.com/airemad/node-acustic/commits/54cc7b05ad3cdc5703dfba7a4fae95fa4a832393))
+
+
+### Other
+
+* added dependencies ([e88c45c](https://github.com/airemad/node-acustic/commits/e88c45c9496dbacd9665fa01e85cbb3173e8740f))
+* added updated documentation ([e9febc1](https://github.com/airemad/node-acustic/commits/e9febc1284b9e35f81d2df507fe17c4d825f630e))
+* extended npm rules ([56c90ce](https://github.com/airemad/node-acustic/commits/56c90ce2952ba026d5f9656c08e53fe8da48f671))
+
 ### [0.1.1](https://github.com/airemad/node-acustic/compare/v0.1.0...v0.1.1) (2022-04-29)
 
 
